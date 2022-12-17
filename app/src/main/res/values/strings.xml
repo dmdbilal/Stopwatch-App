@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="time">%s : %s : %s</string>
+</resources>
